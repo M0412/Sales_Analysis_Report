@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="images/regional_analysi.png" alt="image" width="600"/>
+  <img src="images/regional_analysis.png" alt="image" width="600"/>
 </p>
 
 <p align="center">
